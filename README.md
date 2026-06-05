@@ -1,2 +1,2 @@
 # Mini-Project
-Using Excel and Power BI create a Cookies sales dashboard.
+Using Excel and Power BI Analysis Cookies sales .
