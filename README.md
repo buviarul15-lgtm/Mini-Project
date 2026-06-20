@@ -75,8 +75,5 @@ Analysed revenue trend, sales quanttity trend,profit trend.
 - Analyze trends using line and bar charts
 - Compare performance across categories and regions.
   ## 📊 Dashboard Preview
-![Dashboard Screenshot](<img width="1447" height="786" alt="pure bake cookies sales dashboard" src="https://github.com/user-attachments/assets/ce176fcf-3a02-4857-a516-6caf13cd8f59" />)
+<img width="1447" height="786" alt="pure bake cookies sales dashboard" src="https://github.com/user-attachments/assets/7ed36b86-15af-4cdd-8ee2-beadebb6245e" />
 
-  
-  
-  
